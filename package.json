@@ -1,0 +1,25 @@
+{
+	"name": "intro-node-js",
+	"version": "1.0.0",
+	"description": "Módulo Node JS de introducción",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/udemy-npm-js-ts-angular-modules-course/introduccion-node-js.git"
+	},
+	"keywords": [
+		"introduccion",
+		"nodejs",
+		"node",
+		"js"
+	],
+	"author": "Gustavo Conturzo <gconturzo@gmail.com> (https://conturzo.ar)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/udemy-npm-js-ts-angular-modules-course/introduccion-node-js/issues"
+	},
+	"homepage": "https://github.com/udemy-npm-js-ts-angular-modules-course/introduccion-node-js#readme"
+}
